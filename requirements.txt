@@ -96,7 +96,6 @@ PySocks @ file:///D:/bld/pysocks_1733217287171/work
 python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1733215673016/work
 python-json-logger @ file:///home/conda/feedstock_root/build_artifacts/python-json-logger_1677079630776/work
 pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1733215667876/work
-pywin32==307
 pywinpty @ file:///D:/bld/pywinpty_1729201137810/work/target/wheels/pywinpty-2.0.14-cp313-none-win_amd64.whl#sha256=1996bf79aab2e03b8f29442ba79046a6df67d11a5032f6d0a77141ea30c9b232
 PyYAML @ file:///D:/bld/pyyaml_1737454674198/work
 pyzmq @ file:///D:/bld/pyzmq_1728642506244/work
@@ -115,7 +114,6 @@ sniffio @ file:///home/conda/feedstock_root/build_artifacts/sniffio_173324404456
 soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_1693929250441/work
 stack_data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1733569443808/work
 tenacity==9.0.0
-terminado @ file:///D:/bld/terminado_1710262761616/work
 tifffile==2025.1.10
 tinycss2 @ file:///home/conda/feedstock_root/build_artifacts/tinycss2_1729802851396/work
 tomli @ file:///home/conda/feedstock_root/build_artifacts/tomli_1733256695513/work
